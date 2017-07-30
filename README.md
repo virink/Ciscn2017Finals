@@ -6,8 +6,8 @@
 - Format : Jeopardy(Offline)
 - Sponsor : 教育部高等学校信息安全专业教学指导委员会
 - Support : HumenSec, XD
-- Site : [](http://www.ciscn.cn/)
-- Page : [](http://www.ciscn.cn/competition/securityCompetition?compet_id=25)
+- Site : [http://www.ciscn.cn/](http://www.ciscn.cn/)
+- Page : [http://www.ciscn.cn/competition/securityCompetition?compet_id=25](http://www.ciscn.cn/competition/securityCompetition?compet_id=25)
 - Reward : Certificate
 - BTW : No network
 
