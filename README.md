@@ -20,7 +20,8 @@
 
 ## Naming Rules
 
-    Type-Point-Number/ (eg : WEB-500-01)
-        src/ (Source)
-        scripts/ (exp)
-        README.md (Writeup)
+    Type/ (eg: Web, Reverse, PWN, MISC)
+	    Team-Point/ (eg: Ginkgogogo-500)
+            src/ (Source)
+            scripts/ (exp)
+            README.md (Writeup)
