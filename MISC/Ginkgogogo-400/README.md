@@ -1,10 +1,6 @@
-# Ciscn2017Finals
+# MISC 400 三百层
 
-## Web400 三百层
-
----
-
-### First
+## First
 
 循环加密了三百层,解压到最后第三百层是一个五年计划.exe和一个txt文本,打开是一段加密后的字符
 
@@ -19,7 +15,7 @@ key：aesebc
 
 flag在信息属性里
 
-### BTW, Second, Maybe is 800pt
+## BTW, Second, Maybe is 800pt
 
 其实这道题到前面那里就该结束了
 但是后来我们因为被down了题目就临时改了。
