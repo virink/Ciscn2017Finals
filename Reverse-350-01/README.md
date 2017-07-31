@@ -1,4 +1,8 @@
 # Reverse1
+是个加密程序，密文：
+```
+zyXuYsxOz7mU9jmAJjCo6Wq7mFCNY4JLmj3d9OJez6JH9uJAJsGFE7RCP7d2YjxqTl8=
+```
 用IDA打开程序，发现加密流程主要是sub_401610函数，这其中又经过了4个函数的变换。
 
 ## 第一个变换sub_400A30
