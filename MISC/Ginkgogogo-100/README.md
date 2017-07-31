@@ -1,16 +1,14 @@
-# Ciscn2017Finals
-
-## Web100 谁是二货
+# Web100 谁是二货
 
 ---
 
-### First
+## First
 
 无脑爆破7位密码`7@.7@!2` (防撸型)
 
-### Second
+## Second
 
-生成 : [misc.py](misc.py)
+生成 : [misc.py](scripts/misc.py)
 
 解密没写。。。。。
 
